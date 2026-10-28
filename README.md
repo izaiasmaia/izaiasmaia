@@ -1,8 +1,7 @@
 <div align="center">
 
   <!-- Header Banner Minimalista & Elegante -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Olá,%20sou%20o%20Izaias%20Maia%20
-    &fontSize=36&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=18&descAlignY=62&fontColor=f8fafc" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Olá,%20sou%20o%20Izaias%20Maia&fontSize=36&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=18&descAlignY=62&fontColor=f8fafc" width="100%" alt="Header Banner" />
 
   <br/>
 
@@ -89,19 +88,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=izaiasmaia&theme=slate&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Streak Stats do Izaias" />
-</div>
-
----
-
-### 🚀 Repositórios em Destaque
-
-<div align="center">
-  <a href="https://github.com/izaiasmaia/nodejs-deploy-free" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=izaiasmaia&repo=nodejs-deploy-free&theme=slate&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="nodejs-deploy-free" />
-  </a>
-  <a href="https://github.com/izaiasmaia/loja-turma-ems" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=izaiasmaia&repo=loja-turma-ems&theme=slate&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="loja-turma-ems" />
-  </a>
 </div>
 
 <br/>
