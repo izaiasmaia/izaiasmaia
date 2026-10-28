@@ -1,7 +1,8 @@
 <div align="center">
 
   <!-- Header Banner Minimalista & Elegante -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Olá,%20sou%20o%20Izaias%20Maia%20👋&fontSize=36&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=18&descAlignY=62&fontColor=f8fafc" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=Olá,%20sou%20o%20Izaias%20Maia%20
+    &fontSize=36&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=18&descAlignY=62&fontColor=f8fafc" width="100%" alt="Header Banner" />
 
   <br/>
 
