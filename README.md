@@ -79,10 +79,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izaiasmaia&show_icons=true&theme=slate&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="150" alt="GitHub Stats do Izaias" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaiasmaia&layout=compact&theme=slate&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="150" alt="Top Languages do Izaias" />
-</div>
+
 
 <br/>
 
